@@ -1,8 +1,8 @@
 👋 Hi, I'm Sneha Choudhary
 💻 QA Engineer | 🚀 Aspiring Cloud & DevOps Engineer
 
-🌟 About Me
-🔍 Currently working in **Software Testing (Automation + QA)**☁️ Transitioning into **Cloud & DevOps Engineering**
+🌟 About Me  
+🔍 Currently working in Software Testing (Automation + QA)☁️ Transitioning into **Cloud & DevOps Engineering**
 💡 Strong foundation in **Java + Automation + SDLC**
 🎯 Goal: Build scalable, automated, and reliable systems
 

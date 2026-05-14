@@ -2,6 +2,7 @@
 💻 QA Engineer | 🚀 Aspiring Cloud & DevOps Engineer
 
 **🌟 About Me** 
+
 🔍 Currently working in Software Testing (Automation + QA)☁️ Transitioning into **Cloud & DevOps Engineering**
 💡 Strong foundation in **Java + Automation + SDLC**
 
@@ -46,9 +47,11 @@
 * Strengthening **Linux & Networking fundamentals**
 
 **📫 Connect With Me**
+
 **📧 Email**: choudharysneha486@gmail.com
 
 **⚡ Fun Facts**
+
 I combine **Java + Testing + DevOps** to ensure both **application quality and scalable deployment** 🚀
 First programmers were women!!
 

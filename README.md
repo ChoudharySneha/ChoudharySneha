@@ -4,6 +4,7 @@
 🌟 About Me  
 🔍 Currently working in Software Testing (Automation + QA)☁️ Transitioning into **Cloud & DevOps Engineering**
 💡 Strong foundation in **Java + Automation + SDLC**
+
 🎯 Goal: Build scalable, automated, and reliable systems
 
 🛠️ Tech Stack
@@ -27,11 +28,11 @@
 * Basics of Python
 * SQL
 
-🚀 Projects (Coming Soon)
-🔹 CI/CD Pipeline for Java Application
-🔹 Dockerized Java App Deployment
-🔹 AWS Infrastructure using Terraform
-🔹 Automation Testing integrated with CI/CD
+🚀 Projects (Coming Soon) 
+🔹 CI/CD Pipeline for Java Application 
+🔹 Dockerized Java App Deployment 
+🔹 AWS Infrastructure using Terraform 
+🔹 Automation Testing integrated with CI/CD 
 
 📈 Current Focus
 

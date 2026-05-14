@@ -29,10 +29,15 @@
 * SQL
 
 🚀 Projects (Coming Soon) 
+
 🔹 CI/CD Pipeline for Java Application 
+
 🔹 Dockerized Java App Deployment 
+
 🔹 AWS Infrastructure using Terraform 
+
 🔹 Automation Testing integrated with CI/CD 
+
 
 📈 Current Focus
 

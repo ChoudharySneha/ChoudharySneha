@@ -53,6 +53,7 @@
 **⚡ Fun Facts**
 
 I combine **Java + Testing + DevOps** to ensure both **application quality and scalable deployment** 🚀
+
 First programmers were women!!
 
 <!---
